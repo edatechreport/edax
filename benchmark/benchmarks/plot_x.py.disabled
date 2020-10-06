@@ -1,0 +1,23 @@
+from tempfile import TemporaryDirectory
+import dask.dataframe as dd
+
+from edax import plot
+from lib import BenchmarkX
+
+
+class PlotX(BenchmarkX):
+    def init(self) -> None:
+        pass
+
+    def bench(self, col) -> None:
+        if self.dpath.suffix == ".parquet":
+            df = dd.read_parquet(self.dpath)
+        elif self.dpath.suffix == ".csv":
+            df = dd.read_csv(self.dpath)
+
+        with TemporaryDirectory() as tdir:
+            plot(df, col, progress=False).save(f"{tdir}/report.html")
+
+
+if __name__ == "__main__":
+    PlotX().run()
