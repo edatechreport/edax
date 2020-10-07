@@ -1,4 +1,13 @@
 # EDA𝑥: Task-Centric Exploratory Data Analysis for Statistical Modeling in Python
+
+## Library Demo
+In this demo we show how to get an overview of the data, doing correlation analysis
+and missing value analysis using just one line of code.
+
+The following demo lasts 1m35s. 
+
+![eda demo](EDAx.gif)
+
 ## Experiment Setup
 
 ### Dependency Installation
@@ -10,7 +19,6 @@ The host machine should have the following libraries/packages/binaries installed
 - [Docker](https://www.docker.com/)
 
 ### Dataset Preparation
-
 First, download the dataset from the links and rename the dataset to `<dataset-name>.csv`
 according the dataset column in the [dataset description](dataset.pdf).
 All the datasets should be put under `benchmark/data` folder.
