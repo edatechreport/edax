@@ -1,10 +1,8 @@
 # EDA𝑥: Task-Centric Exploratory Data Analysis for Statistical Modeling in Python
 
 ## Library Demo
-In this demo we show how to get an overview of the data, doing correlation analysis
+In this 50 seconds demo we show how to get an overview of the data, doing correlation analysis
 and missing value analysis using just one line of code.
-
-The following demo lasts 1m35s. 
 
 ![eda demo](EDAx.gif)
 
