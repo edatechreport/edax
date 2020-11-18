@@ -4,5 +4,6 @@
 # Stars
 ![stars](../stars.png)
 
-# Daily Downloads
-![downloads](../daily_downloads.png)
+# Downloads
+![total downloads](../total_downloads.png)
+![daily downloads](../daily_downloads.png)
