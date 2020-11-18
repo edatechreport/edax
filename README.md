@@ -3,11 +3,11 @@
 ## Ducumentation
 The documentation and examples could be found in https://edatechreport.github.io/edax/.
 
-## Daily Downloads
-![Daily Downloads](daily_downloads.png)
-
 ## Stars
 ![Stars](stars.png)
+
+## Daily Downloads
+![Daily Downloads](daily_downloads.png)
 
 
 ## Library Demo
