@@ -3,6 +3,13 @@
 ## Ducumentation
 The documentation and examples could be found in https://edatechreport.github.io/edax/.
 
+## Daily Downloads
+![Daily Downloads](daily_downloads.png)
+
+## Stars
+![Stars](stars.png)
+
+
 ## Library Demo
 In this 50 seconds demo we show how to get an overview of the data, doing correlation analysis
 and missing value analysis using just one line of code.
