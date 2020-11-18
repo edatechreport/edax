@@ -6,7 +6,8 @@ The documentation and examples could be found in https://edatechreport.github.io
 ## Stars
 ![Stars](stars.png)
 
-## Daily Downloads
+## Downloads
+![Total Downloads](total_downloads.png)
 ![Daily Downloads](daily_downloads.png)
 
 
